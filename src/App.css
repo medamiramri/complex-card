@@ -1,0 +1,69 @@
+.card{
+  width: 500px;
+  height:300px;
+  border-radius: 15px 15px 15px 15px; 
+  color: #ffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background-image: url('space.jpg')
+  }
+  .card h1{
+      text-align:end;
+      margin-top: 0px;
+  }
+  .creditcard{
+      display:flex;
+      width: 20%;
+      height: 30%;
+      margin-left: 20px;
+  }
+  .visa{
+      width: 15%;
+      height: 15%;
+      margin: -61px 10px;
+  }
+  .numCB{
+    font-size: 1.5em;
+    letter-spacing: 5px;
+     color: #dee294;
+     margin-top: 0;
+     margin-bottom: 0;
+     
+     
+  }
+  .text{
+      font-size: 2em;
+      margin-bottom: 0px;
+      margin-top: 0px;
+  }
+  .cardparameters{
+      display: flex;
+  }
+  .Validthru{
+      justify-content: flex-end;
+      display: flex;
+  }
+  .code{
+      font-size: 2em;
+      margin-top: 0;
+      margin-bottom: 0;
+  }
+  .cardparameters{
+      display:flex;
+     
+  }
+  .validation{
+      margin: -70px 100px 0px 0px;
+      font-size: 10px;
+  }
+  .validation span{
+      font-size: 20px;
+  }
+  .complex-card{
+    display: flex;
+  }
+  .forms{
+    display: flex;
+    flex-direction: column;
+  }
